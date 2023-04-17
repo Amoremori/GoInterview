@@ -67,83 +67,153 @@
 <span style="white-space: pre-line">4.[Polymorphism](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
 
-#Go.Design-patterns
-*[Generative patterns]()
-*[absract]()
-*[builder]()
-*[factory]()
-*[prototype]()
-*[singleton]()
-*[Structural patterns]()
-*[adapter]()
-*[bridge]()
-*[composite]()
-*[decorator]()
-*[facade]()
-*[flyweight]()
-*[proxy]()
-*[Behavioral patterns]()
-*[chain of responsibility]()
-*[command]()
-*[interpreter]()
-*[iterator]()
-*[mediator]()
-*[memento]()
-*[observer]()
-*[state]()
-*[strategy]()
-*[template method]()
-*[visitor]()
+<h3 align="center"><a href=" " target="_blank">Go.Design-patterns:</a></h3>
 
-#Go.Funсtions:
-*[Lambda/Variadic]()
-*[Recursion/Closure]()
-*[First-class function]()
+<span style="white-space: pre-line">1.[Generative patterns]()</span>
 
-#Go.Concurrency:
-*[Scheduler models]()
-*[Goroutine/Scheduler]()
-*[Channel/Select]()
-*[Race Condition]()
+<span style="white-space: pre-line">2.[Absract]()</span>
 
-#Go.Package sync:
-*[Atomic]()
-*[Mutex]()
-*[WaitGroup]()
-*[Once]()
-*[Pool]()
-*[Map]()
+<span style="white-space: pre-line">3.[Builder]()</span>
 
-#Go.Patterns:
-*[Worker Pool (Thread pool)]()
-*[Pipeline]()
-*[Barrier]()
-*[Future]()
+<span style="white-space: pre-line">4.[Factory]()</span>
 
-#Go.Runtime:
-*[Structure size optimization (alignment/padding).]()
-*[Memory model. Escape analyse.]()
-*[Extra. Package runtime (Garbage Collector)]()
-*[Main/init]()
-*[Defer]()
+<span style="white-space: pre-line">5.[Prototype]()</span>
 
-#Go.Applications:
-*[Context (key-value/cancel/tracing)]()
-*[Errors handling (Panic/Recover/Errors)]()
+<span style="white-space: pre-line">6.[Singleton]()</span>
 
-#Go.Frameworks:
-*[Gin]()
-*[Echo]()
-*[Go-Kit]()
-*[Beego]()
+<span style="white-space: pre-line">7.[Structural patterns]()</span>
 
-#Go.Tools:
-*[Godoc]()
-*[Gofmt]()
-*[Go vet]()
-*[Pprof]()
-*[Linters (GolangCI, golint and etc)]()
-*[Dependencies Management. Mod]()
+<span style="white-space: pre-line">8.[Adapter]()</span>
+
+<span style="white-space: pre-line">9.[Bridge]()</span>
+
+<span style="white-space: pre-line">10.[Composite]()</span>
+
+<span style="white-space: pre-line">11.[Decorator]()</span>
+
+<span style="white-space: pre-line">12.[Facade]()</span>
+
+<span style="white-space: pre-line">13.[Flyweight]()</span>
+
+<span style="white-space: pre-line">14.[Proxy]()</span>
+
+<span style="white-space: pre-line">15.[Behavioral patterns]()</span>
+
+<span style="white-space: pre-line">16.[Chain of responsibility]()</span>
+
+<span style="white-space: pre-line">17.[Command]()</span>
+
+<span style="white-space: pre-line">18.[Interpreter]()</span>
+
+<span style="white-space: pre-line">19.[Iterator]()</span>
+
+<span style="white-space: pre-line">20.[Mediator]()</span>
+
+<span style="white-space: pre-line">21.[Memento]()</span>
+
+<span style="white-space: pre-line">22.[Observer]()</span>
+
+<span style="white-space: pre-line">23.[State]()</span>
+
+<span style="white-space: pre-line">24.[Strategy]()</span>
+
+<span style="white-space: pre-line">25.[Template method]()</span>
+
+<span style="white-space: pre-line">26.[Visitor]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Funсtions:</a></h3>
+
+<span style="white-space: pre-line">1.[Lambda/Variadic]()</span>
+
+<span style="white-space: pre-line">2.[Recursion/Closure]()</span>
+
+<span style="white-space: pre-line">3.[First-class function]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Concurrency:</a></h3>
+
+<span style="white-space: pre-line">1.[Scheduler models]()</span>
+
+<span style="white-space: pre-line">2.[Goroutine/Scheduler]()</span>
+
+<span style="white-space: pre-line">3.[Channel/Select]()</span>
+
+<span style="white-space: pre-line">4.[Race Condition]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Package sync:</a></h3>
+
+<span style="white-space: pre-line">1.[Atomic]()</span>
+
+<span style="white-space: pre-line">2.[Mutex]()</span>
+
+<span style="white-space: pre-line">3.[WaitGroup]()</span>
+
+<span style="white-space: pre-line">4.[Once]()</span>
+
+<span style="white-space: pre-line">5.[Pool]()</span>
+
+<span style="white-space: pre-line">6.[Map]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Patterns:</a></h3>
+
+<span style="white-space: pre-line">1.[Worker Pool (Thread pool)]()</span>
+
+<span style="white-space: pre-line">2.[Pipeline]()</span>
+
+<span style="white-space: pre-line">3.[Barrier]()</span>
+
+<span style="white-space: pre-line">4.[Future]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Runtime:</a></h3>
+
+<span style="white-space: pre-line">1.[Structure size optimization (alignment/padding).]()</span>
+
+<span style="white-space: pre-line">2.[Memory model. Escape analyse.]()</span>
+
+<span style="white-space: pre-line">3.[Extra. Package runtime (Garbage Collector)]()</span>
+
+<span style="white-space: pre-line">4.[Main/init]()</span>
+
+<span style="white-space: pre-line">5.[Defer]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Applications:</a></h3>
+
+<span style="white-space: pre-line">1.[Context (key-value/cancel/tracing)]()</span>
+
+<span style="white-space: pre-line">2.[Errors handling (Panic/Recover/Errors)]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Frameworks:</a></h3>
+
+<span style="white-space: pre-line">1.[Gin]()</span>
+
+<span style="white-space: pre-line">2.[Echo]()</span>
+
+<span style="white-space: pre-line">3.[Go-Kit]()</span>
+
+<span style="white-space: pre-line">4.[Beego]()</span>
+
+
+<h3 align="center"><a href=" " target="_blank">Go.Tools:</a></h3>
+
+<span style="white-space: pre-line">1.[Godoc]()</span>
+
+<span style="white-space: pre-line">2.[Gofmt]()</span>
+
+<span style="white-space: pre-line">3.[Go vet]()</span>
+
+<span style="white-space: pre-line">4.[Pprof]()</span>
+
+<span style="white-space: pre-line">5.[Linters (GolangCI, golint and etc)]()</span>
+
+<span style="white-space: pre-line">6.[Dependencies Management. Mod]()</span>
+
+
 
 #Go.Testing:
 *[Go test/benchmark]()
