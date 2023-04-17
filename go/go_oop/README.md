@@ -1,16 +1,107 @@
 <h1 align="center">GoOOP</h1>
 
-<span style="white-space: pre-line">1Ru.[Struct-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/README.md)</span>
+<span style="white-space: pre-line">1Ru.[Struct-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structRu.go)</span>
 
-<span style="white-space: pre-line">1En.[Struct-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/README.md)</span>
+<span style="white-space: pre-line">1En.[Struct-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structEn.go)</span>
 
-<span style="white-space: pre-line">2Ru.[Encapsulation-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">2Ru.[Encapsulation-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/encapsulationRu.go)</span>
 
-<span style="white-space: pre-line">2En.[Encapsulation-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<h3>Encapsulation-Ru</h3>
 
-<span style="white-space: pre-line">3Ru.[Inheritance/Composition/Embedding-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+```bash
+package main
 
-<span style="white-space: pre-line">3En.[Inheritance/Composition/Embedding-EN](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+import (
+"fmt"
+)
+
+// Определение структуры
+type Circle struct {
+radius float64
+}
+
+// Методы для структуры Circle
+func (c Circle) SetRadius(radius float64) {
+c.radius = radius
+}
+
+func (c Circle) GetRadius() float64 {
+return c.radius
+}
+
+func (c Circle) CalculateArea() float64 {
+return 3.14 * c.radius * c.radius
+}
+
+func main() {
+// Создание экземпляра структуры Circle
+c := Circle{radius: 5.0}
+
+// Изменение значения радиуса с помощью метода SetRadius
+c.SetRadius(7.0)
+
+// Получение значения радиуса с помощью метода GetRadius
+fmt.Println("Радиус окружности:", c.GetRadius())
+
+// Вычисление площади окружности с помощью метода CalculateArea
+fmt.Println("Площадь окружности:", c.CalculateArea())
+}
+
+```
+
+<a>В этом примере структура Circle инкапсулирует данные о радиусе окружности и методы для работы с этими данными. Методы SetRadius, GetRadius и CalculateArea определены для структуры Circle и позволяют устанавливать значение радиуса, получать значение радиуса и вычислять площадь окружности соответственно. Доступ к данным о радиусе осуществляется только через методы, что обеспечивает инкапсуляцию данных и скрывает их от прямого доступа извне.</a>
+
+<span style="white-space: pre-line">2En.[Encapsulation-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/encapsulationRu.go)</span>
+
+<h3>Encapsulation-En</h3>
+
+```bash
+package main
+
+import (
+"fmt"
+)
+
+// Definition of the Circle structure
+type Circle struct {
+radius float64
+}
+
+// Methods for the Circle structure
+func (c Circle) SetRadius(radius float64) {
+c.radius = radius
+}
+
+func (c Circle) GetRadius() float64 {
+return c.radius
+}
+
+func (c Circle) CalculateArea() float64 {
+return 3.14 * c.radius * c.radius
+}
+
+func main() {
+// Creating an instance of the Circle structure
+c := Circle{radius: 5.0}
+
+// Changing the radius value using the SetRadius method
+c.SetRadius(7.0)
+
+// Getting the radius value using the GetRadius method
+fmt.Println("Circle radius:", c.GetRadius())
+
+// Calculating the area of the circle using the CalculateArea method
+fmt.Println("Circle area:", c.CalculateArea())
+}
+
+
+```
+
+<a>In this example, the Circle structure encapsulates the data about the radius of a circle and the methods for working with this data. The SetRadius, GetRadius, and CalculateArea methods are defined for the Circle structure and allow setting the radius value, getting the radius value, and calculating the area of the circle, respectively. Access to the radius data is only possible through the methods, which ensures encapsulation of the data and hides it from direct access from outside.</a>
+
+<span style="white-space: pre-line">3Ru.[Inheritance/Composition/Embedding-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionRu.go)</span>
+
+<span style="white-space: pre-line">3En.[Inheritance/Composition/Embedding-EN](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionEn.go)</span>
 
 <span style="white-space: pre-line">4Ru.[Polymorphism-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismRu.go)</span>
 
