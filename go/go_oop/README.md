@@ -12,7 +12,7 @@
 
 <span style="white-space: pre-line">3En.[Inheritance/Composition/Embedding-EN](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
-<span style="white-space: pre-line">4Ru.[Polymorphism-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">4Ru.[Polymorphism-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismRu.go)</span>
 
 <h3>PolymorphismRu</h3>
 
@@ -67,7 +67,7 @@ return shape.Area()
 
 <a>В этом примере определен интерфейс Shape, который имеет метод Area(). Затем две структуры, Rectangle и Circle, реализуют этот интерфейс, предоставляя свои реализации метода Area(). Функция getArea() принимает аргумент типа Shape, и внутри нее вызывается метод Area() на переданной фигуре, будь то прямоугольник или круг, благодаря полиморфизму. Это позволяет использовать одну функцию для расчета площади различных геометрических фигур без явного указания их типа.</a>
 
-<span style="white-space: pre-line">4En.[Polymorphism-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">4En.[Polymorphism-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismEn.go)</span>
 
 <h3>PolymorphismEn</h3>
 
