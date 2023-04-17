@@ -2,20 +2,20 @@
 
 <h3 align="center">Go-Interview-Questions</h3>
 
-#Software Engineering Practices:
-*[Architecture knowledge]()
-*[Code Standards&Code Review Process]()
-*[Algorithms and data structures]()
-*[Continuous Integration&Continuous Delivery & Deployment]()
-*[Testing]()
-*[Troubleshooting/Logging/Monitoring]()
+<h3>Software Engineering Practices:</h3>>
+[Architecture knowledge]()
+[Code Standards&Code Review Process]()
+[Algorithms and data structures]()
+[Continuous Integration&Continuous Delivery & Deployment]()
+[Testing]()
+[Troubleshooting/Logging/Monitoring]()
 
-#Software Development Processes:
-*[Version Control System(Git,gitflow)]()
-*[Estimations]()
-*[Development metodologies]()
+<h3>Software Development Processes:</h3>>
+[Version Control System(Git,gitflow)]()
+[Estimations]()
+[Development metodologies]()
 
-*[Go.Types:](https://github.com/Amoremori/GoInterview/tree/main/go/go_types)
+<h3>[Go.Types:](https://github.com/Amoremori/GoInterview/tree/main/go/go_types)<h3>
 -    [string](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)
 -    [rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)
 -    [byte](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/byte.go)
