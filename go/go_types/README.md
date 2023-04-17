@@ -1,7 +1,5 @@
 <h1 align="center">GoTypes</h1>
 
-<h3 align="center">Basic</h3>
-
 <span style="white-space: pre-line">1.[String](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</span>
 
 <span style="white-space: pre-line">2.[Rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</span>
