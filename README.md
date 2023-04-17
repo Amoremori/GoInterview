@@ -3,6 +3,8 @@
 <h3 align="center">Go-Interview-Questions</h3>
 
 
+
+
 <h3 align="center"><a href=" " target="_blank">Software Engineering Practices:</a></h3>
 
 <span style="white-space: pre-line">1.[Architecture knowledge]()</span>
@@ -18,10 +20,13 @@
 <span style="white-space: pre-line">6.[Troubleshooting/Logging/Monitoring]()</span>
 
 
-<h3>Software Development Processes:</h3>
-[Version Control System(Git,gitflow)]()
-[Estimations]()
-[Development metodologies]()
+<h3 align="center"><a href=" " target="_blank">Software Engineering Practices:</a></h3>
+
+<span style="white-space: pre-line">1.[Version Control System(Git,gitflow)]()</span>
+
+<span style="white-space: pre-line">2.[Estimations]()</span>
+
+<span style="white-space: pre-line">3.[Development metodologies]()</span>
 
 
 <h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_types" target="_blank">GoTypes:</a></h3>
