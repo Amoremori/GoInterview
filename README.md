@@ -42,6 +42,18 @@
 
 <span style="white-space: pre-line">12.[Interfaces](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
+
+<h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_oop" target="_blank">GoOOP</a></h3>
+
+<span style="white-space: pre-line">12.[Struct](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+
+<span style="white-space: pre-line">12.[Encapsulation](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+
+<span style="white-space: pre-line">12.[Inheritance/Composition/Embedding](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+
+<span style="white-space: pre-line">12.[Polymorphism](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+
+
 #Go.Design-patterns
 *[Generative patterns]()
 *[absract]()
@@ -69,12 +81,6 @@
 *[strategy]()
 *[template method]()
 *[visitor]()
-
-#Go.OOP:
-*[Struct]()
-*[Encapsulation]()
-*[Inheritance/Composition/ Embedding]()
-*[Polymorphism]()
 
 #Go.Funсtions:
 *[Lambda/Variadic]()
