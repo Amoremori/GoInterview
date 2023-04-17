@@ -45,13 +45,13 @@
 
 <h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_oop" target="_blank">GoOOP</a></h3>
 
-<span style="white-space: pre-line">12.[Struct](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">1.[Struct](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
-<span style="white-space: pre-line">12.[Encapsulation](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">2.[Encapsulation](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
-<span style="white-space: pre-line">12.[Inheritance/Composition/Embedding](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">3.[Inheritance/Composition/Embedding](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
-<span style="white-space: pre-line">12.[Polymorphism](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">4.[Polymorphism](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
 
 #Go.Design-patterns
