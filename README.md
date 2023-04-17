@@ -18,20 +18,18 @@
 
 <h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_types" target="_blank">GoTypes</a></h3>
 
-<span style="white-space: pre-line">-[string](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</span>
-
-        <a>-    *[rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</a>
-
-        <a>-    *[byte](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/byte.go)</a>
-        <a>-    *[int](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/int.go)</a>
-        <a>-    *[uint](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/uint.go)</a>
-        <a>-    *[float](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/float.go)</a>
-        <a>-    *[constants](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/constants.go)</a><br>
-        <a>-    *[pointer](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/pointer.go)</a><br>
-        <a>-    *[array](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/array.go)</a><br>
-        <a>-    *[slice](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/slice.go)</a><br>
-        <a>-    *[maps](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/maps.go)</a><br>
-        <a>-    *[interfaces](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</a><br>
+<span style="white-space: pre-line">-[String](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</span>
+<span style="white-space: pre-line">-[Rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</span>
+<span style="white-space: pre-line">-[Byte](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/byte.go)</span>
+<span style="white-space: pre-line">-[Int](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/int.go)</span>
+<span style="white-space: pre-line">-[Uint](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/uint.go)</span>
+<span style="white-space: pre-line">-[Float](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/float.go)</span>
+<span style="white-space: pre-line">-[Constants](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/constants.go)</span>
+<span style="white-space: pre-line">-[Pointer](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/pointer.go)</span>
+<span style="white-space: pre-line">-[Array](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/array.go)</span>
+<span style="white-space: pre-line">-[Slice](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/slice.go)</span>
+<span style="white-space: pre-line">-[Maps](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/maps.go)</span>
+<span style="white-space: pre-line">-[Interfaces](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
 #Go.Design-patterns
 *[Generative patterns]()
