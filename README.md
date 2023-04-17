@@ -2,13 +2,21 @@
 
 <h3 align="center">Go-Interview-Questions</h3>
 
-<h3>Software Engineering Practices:</h3>
-[Architecture knowledge]()
-[Code Standards&Code Review Process]()
-[Algorithms and data structures]()
-[Continuous Integration&Continuous Delivery & Deployment]()
-[Testing]()
-[Troubleshooting/Logging/Monitoring]()
+
+<h3 align="center"><a href=" " target="_blank">Software Engineering Practices:</a></h3>
+
+<span style="white-space: pre-line">1.[Architecture knowledge]()</span>
+
+<span style="white-space: pre-line">2.[Code Standards&Code Review Process]()</span>
+
+<span style="white-space: pre-line">3.[Algorithms and data structures]()</span>
+
+<span style="white-space: pre-line">4.[Continuous Integration&Continuous Delivery & Deployment]()</span>
+
+<span style="white-space: pre-line">5.[Testing]()</span>
+
+<span style="white-space: pre-line">6.[Troubleshooting/Logging/Monitoring]()</span>
+
 
 <h3>Software Development Processes:</h3>
 [Version Control System(Git,gitflow)]()
@@ -16,7 +24,7 @@
 [Development metodologies]()
 
 
-<h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_types" target="_blank">GoTypes</a></h3>
+<h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_types" target="_blank">GoTypes:</a></h3>
 
 <span style="white-space: pre-line">1.[String](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</span>
 
@@ -43,7 +51,7 @@
 <span style="white-space: pre-line">12.[Interfaces](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
 
-<h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_oop" target="_blank">GoOOP</a></h3>
+<h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_oop" target="_blank">GoOOP:</a></h3>
 
 <span style="white-space: pre-line">1.[Struct](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
