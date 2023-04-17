@@ -105,3 +105,5 @@ return shape.AreaEn()
 }
 
 ```
+
+<a>In this example, an interface called Shape is defined with a method Area(). Then two structs, Rectangle and Circle, implement this interface by providing their own implementations of the Area() method. The getArea() function takes an argument of type Shape, and inside it, the Area() method is called on the passed shape, whether it's a rectangle or a circle, thanks to polymorphism. This allows using a single function to calculate the area of different geometric shapes without explicitly specifying their type.</a>
