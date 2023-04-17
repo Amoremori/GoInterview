@@ -16,7 +16,7 @@
 [Development metodologies]()
 
 <h3 align="left">[Go.Types:](https://github.com/Amoremori/GoInterview/tree/main/go/go_types)</h3>
-        <a align="left">-    *[string](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</a>
+<span style="white-space: pre-line">-[string](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</span>
 
         <a>-    *[rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</a>
 
