@@ -8,6 +8,7 @@
 
 <span style="white-space: pre-line">4.[Polymorphism](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 <h3>PolymorphismRu</h3>
+
 ```bash
 package main
 
@@ -59,7 +60,12 @@ return shape.Area()
 
 <a>В этом примере определен интерфейс Shape, который имеет метод Area(). Затем две структуры, Rectangle и Circle, реализуют этот интерфейс, предоставляя свои реализации метода Area(). Функция getArea() принимает аргумент типа Shape, и внутри нее вызывается метод Area() на переданной фигуре, будь то прямоугольник или круг, благодаря полиморфизму. Это позволяет использовать одну функцию для расчета площади различных геометрических фигур без явного указания их типа.</a>
 
-<h3>PolymorphismEn</h3>
+4.PolymorphismEn
+-In this example, an interface called Shape is defined with a method Area(). Then two structs, Rectangle and Circle, implement this interface by providing their own implementations of the Area() method. The getArea() function takes an argument of type Shape, and inside it, the Area() method is called on the passed shape, whether it's a rectangle or a circle, thanks to polymorphism. This allows using a single function to calculate the area of different geometric shapes without explicitly specifying their type.
+
+
+
+
 ```bash
 package main
 
