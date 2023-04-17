@@ -15,7 +15,7 @@
 [Estimations]()
 [Development metodologies]()
 
-<h3 align="center">[Go.Types:](https://github.com/Amoremori/GoInterview/tree/main/go/go_types)</h3>
+<h3 align="left">[Go.Types:](https://github.com/Amoremori/GoInterview/tree/main/go/go_types)</h3>
         <a align="left">-    *[string](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</a>
 
         <a>-    *[rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</a>
