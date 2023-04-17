@@ -101,11 +101,65 @@ fmt.Println("Circle area:", c.CalculateArea())
 
 <span style="white-space: pre-line">3Ru.[Inheritance/Composition/Embedding-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionRu.go)</span>
 
+<h3>Inheritance/Composition/Embedding-Ru</h3>
+
+<a>В Go основным механизмом для повторного использования кода является композиция, где вы можете встроить одну структуру внутрь другой, чтобы достичь формы "наследования". Этот подход также называется "эмбеддинг" в Go. Рассмотрим пример, чтобы проиллюстрировать этот концепт: </a>
+
+```bash
+package main
+
+import "fmt"
+
+// Структура Animal
+type Animal1 struct {
+name   string
+weight float64
+}
+
+// Структура Dog, встраивающая структуру Animal
+type Dog1 struct {
+Animal1
+breed string
+}
+
+// Метод для Animal
+func (a Animal1) Eat1() {
+fmt.Println("Животное ест.")
+}
+
+// Метод для Dog
+func (d Dog1) Bark1() {
+fmt.Println("Собака лает.")
+}
+
+func main() {
+// Создаем экземпляр структуры Dog
+dog := Dog1{
+Animal1: Animal1{
+name:   "Бадди",
+weight: 25.5,
+},
+breed: "Лабрадор",
+}
+
+// Обращаемся к полям и методам как из структуры Animal, так и из структуры Dog
+fmt.Println("Имя собаки:", dog.name)
+fmt.Println("Вес собаки:", dog.weight)
+dog.Eat1()
+dog.Bark1()
+}
+
+```
+<a>В приведенном выше примере у нас есть структура Animal с полями name и weight, и структура Dog, встраивающая структуру Animal. Это означает, что структура Dog автоматически наследует поля и методы структуры Animal. Вы можете обращаться к этим полям и методам напрямую из структуры Dog, как показано в функции main.
+
+    Строго говоря, Go предпочитает подход на основе композиции перед традиционным наследованием, чтобы сохранить простоту языка и его легкость в понимании. Встраивание позволяет повторно использовать код без некоторых сложностей и проблем, связанных с наследованием в других языках.</a>
+
 <span style="white-space: pre-line">3En.[Inheritance/Composition/Embedding-EN](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionEn.go)</span>
 
 <span style="white-space: pre-line">4Ru.[Polymorphism-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismRu.go)</span>
 
 <h3>PolymorphismRu</h3>
+
 
 ```bash
 package main
