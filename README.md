@@ -15,15 +15,15 @@
 [Estimations]()
 [Development metodologies]()
 
-<h3>[Go.Types:](https://github.com/Amoremori/GoInterview/tree/main/go/go_types)</h3>
-        <a>-    *[string](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</a></br>
+<h3 align="center">[Go.Types:](https://github.com/Amoremori/GoInterview/tree/main/go/go_types)</h3>
+        <a align="left">-    *[string](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</a>
 
-        <a>-    *[rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</a><br>
+        <a>-    *[rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</a>
 
-        <a>-    *[byte](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/byte.go)</a><br>
-        <a>-    *[int](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/int.go)</a><br>
-        <a>-    *[uint](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/uint.go)</a><br>
-        <a>-    *[float](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/float.go)</a><br>
+        <a>-    *[byte](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/byte.go)</a>
+        <a>-    *[int](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/int.go)</a>
+        <a>-    *[uint](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/uint.go)</a>
+        <a>-    *[float](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/float.go)</a>
         <a>-    *[constants](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/constants.go)</a><br>
         <a>-    *[pointer](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/pointer.go)</a><br>
         <a>-    *[array](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/array.go)</a><br>
