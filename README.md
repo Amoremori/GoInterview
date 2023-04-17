@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Amoremori" target="_blank">Roman</a></h1>
 
-<h3 align="center">Go-Interview-Questions</h3>
+<h3 align="center">Go-Interview-Questions(Ru-En)</h3>
 
 
 
@@ -58,13 +58,19 @@
 
 <h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_oop" target="_blank">GoOOP:</a></h3>
 
-<span style="white-space: pre-line">1.[Struct](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">1Ru.[Struct-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structRu.go)</span>
 
-<span style="white-space: pre-line">2.[Encapsulation](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">1En.[Struct-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structEn.go)</span>
 
-<span style="white-space: pre-line">3.[Inheritance/Composition/Embedding](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">2En.[Encapsulation-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/encapsulationRu.go)</span>
 
-<span style="white-space: pre-line">4.[Polymorphism](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">3Ru.[Inheritance/Composition/Embedding-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionRu.go)</span>
+
+<span style="white-space: pre-line">3En.[Inheritance/Composition/Embedding-EN](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionEn.go)</span>
+
+<span style="white-space: pre-line">4Ru.[Polymorphism-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismRu.go)</span>
+
+<span style="white-space: pre-line">4En.[Polymorphism-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismEn.go)</span>
 
 
 <h3 align="center"><a href=" " target="_blank">Go.Design-patterns:</a></h3>

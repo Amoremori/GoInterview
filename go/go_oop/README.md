@@ -1,4 +1,4 @@
-<h1 align="center">GoOOP</h1>
+<h1 align="center">GoOOP(Ru-EN)</h1>
 
 <span style="white-space: pre-line">1Ru.[Struct-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structRu.go)</span>
 
