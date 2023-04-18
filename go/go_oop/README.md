@@ -2,7 +2,67 @@
 
 <span style="white-space: pre-line">1Ru.[Struct-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structRu.go)</span>
 
+<h3>Struct-Ru</h3>
+
+```bash
+package main
+
+import "fmt"
+
+// Определим структуру Person
+type Person struct {
+name string
+age int
+}
+
+// Метод для получения информации о персоне
+func (p Person) getInfo() string {
+return fmt.Sprintf("Name: %s, Age: %d", p.name, p.age)
+}
+
+func main() {
+// Создадим новый объект Person
+p := Person{"John", 25}
+
+// Выведем информацию о персоне, используя метод getInfo()
+fmt.Println(p.getInfo()) // Name: John, Age: 25
+}
+
+```
+
+<a>В этом примере мы определили структуру Person, содержащую поля name и age. Мы также определили метод getInfo(), который возвращает информацию о персоне. Затем мы создали новый объект Person с именем p и значениями "John" и 25. И, наконец, мы вызвали метод getInfo() на объекте p и вывели результат.</a>
+
 <span style="white-space: pre-line">1En.[Struct-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structEn.go)</span>
+
+<h3>Struct-En</h3>
+
+```bash
+package main
+
+import "fmt"
+
+// Define a Person structure
+type Person struct {
+name string
+age int
+}
+
+// Method to get information about a person
+func (p Person) getInfo() string {
+return fmt.Sprintf("Name: %s, Age: %d", p.name, p.age)
+}
+
+func main() {
+// Create a new Person object
+p := Person{"John", 25}
+
+// Print information about the person using the getInfo() method
+fmt.Println(p.getInfo()) // Name: John, Age: 25
+}
+
+```
+
+<a>In this example, we defined a Person structure that contains name and age fields. We also defined a method getInfo() that returns information about the person. Then, we created a new Person object named p with the values "John" and 25. And finally, we called the getInfo() method on the p object and printed the result.</a>
 
 <span style="white-space: pre-line">2Ru.[Encapsulation-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/encapsulationRu.go)</span>
 
