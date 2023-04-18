@@ -7,17 +7,17 @@
 
 <h3 align="center"><a href=" " target="_blank">Software Engineering Practices:</a></h3>
 
-<span style="white-space: pre-line">1.[Architecture knowledge]()</span>
+<span style="white-space: pre-line">1. [Architecture knowledge]()</span>
 
-<span style="white-space: pre-line">2.[Code Standards&Code Review Process]()</span>
+<span style="white-space: pre-line">2. [Code Standards&Code Review Process]()</span>
 
-<span style="white-space: pre-line">3.[Algorithms and data structures]()</span>
+<span style="white-space: pre-line">3. [Algorithms and data structures]()</span>
 
-<span style="white-space: pre-line">4.[Continuous Integration&Continuous Delivery & Deployment]()</span>
+<span style="white-space: pre-line">4. [Continuous Integration&Continuous Delivery & Deployment]()</span>
 
-<span style="white-space: pre-line">5.[Testing]()</span>
+<span style="white-space: pre-line">5. [Testing]()</span>
 
-<span style="white-space: pre-line">6.[Troubleshooting/Logging/Monitoring]()</span>
+<span style="white-space: pre-line">6. [Troubleshooting/Logging/Monitoring]()</span>
 
 
 <h3 align="center"><a href=" " target="_blank">Software Engineering Practices:</a></h3>
