@@ -22,102 +22,102 @@
 
 <h3 align="center"><a href=" " target="_blank">Software Engineering Practices:</a></h3>
 
-<span style="white-space: pre-line">1.[Version Control System(Git,gitflow)]()</span>
+<span style="white-space: pre-line">1. [Version Control System(Git,gitflow)]()</span>
 
-<span style="white-space: pre-line">2.[Estimations]()</span>
+<span style="white-space: pre-line">2. [Estimations]()</span>
 
-<span style="white-space: pre-line">3.[Development metodologies]()</span>
+<span style="white-space: pre-line">3. [Development metodologies]()</span>
 
 
 <h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_types" target="_blank">GoTypes:</a></h3>
 
-<span style="white-space: pre-line">1.[String](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</span>
+<span style="white-space: pre-line">1. [String](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/string.go)</span>
 
-<span style="white-space: pre-line">2.[Rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</span>
+<span style="white-space: pre-line">2. [Rune](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/rune.go)</span>
 
-<span style="white-space: pre-line">3.[Byte](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/byte.go)</span>
+<span style="white-space: pre-line">3. [Byte](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/byte.go)</span>
 
-<span style="white-space: pre-line">4.[Int](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/int.go)</span>
+<span style="white-space: pre-line">4. [Int](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/int.go)</span>
 
-<span style="white-space: pre-line">5.[Uint](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/uint.go)</span>
+<span style="white-space: pre-line">5. [Uint](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/uint.go)</span>
 
-<span style="white-space: pre-line">6.[Float](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/float.go)</span>
+<span style="white-space: pre-line">6. [Float](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/float.go)</span>
 
-<span style="white-space: pre-line">7.[Constants](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/constants.go)</span>
+<span style="white-space: pre-line">7. [Constants](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/constants.go)</span>
 
-<span style="white-space: pre-line">8.[Pointer](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/pointer.go)</span>
+<span style="white-space: pre-line">8. [Pointer](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/pointer.go)</span>
 
-<span style="white-space: pre-line">9.[Array](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/array.go)</span>
+<span style="white-space: pre-line">9. [Array](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/array.go)</span>
 
-<span style="white-space: pre-line">10.[Slice](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/slice.go)</span>
+<span style="white-space: pre-line">10. [Slice](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/slice.go)</span>
 
-<span style="white-space: pre-line">11.[Maps](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/maps.go)</span>
+<span style="white-space: pre-line">11. [Maps](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/maps.go)</span>
 
-<span style="white-space: pre-line">12.[Interfaces](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
+<span style="white-space: pre-line">12. [Interfaces](https://github.com/Amoremori/GoInterview/blob/main/go/go_types/interfaces.go)</span>
 
 
 <h3 align="center"><a href="https://github.com/Amoremori/GoInterview/tree/main/go/go_oop" target="_blank">GoOOP:</a></h3>
 
-<span style="white-space: pre-line">1Ru.[Struct-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structRu.go)</span>
+<span style="white-space: pre-line">1Ru. [Struct-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structRu.go)</span>
 
-<span style="white-space: pre-line">1En.[Struct-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structEn.go)</span>
+<span style="white-space: pre-line">1En. [Struct-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/structEn.go)</span>
 
-<span style="white-space: pre-line">2En.[Encapsulation-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/encapsulationRu.go)</span>
+<span style="white-space: pre-line">2En. [Encapsulation-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/encapsulationRu.go)</span>
 
-<span style="white-space: pre-line">3Ru.[Inheritance/Composition/Embedding-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionRu.go)</span>
+<span style="white-space: pre-line">3Ru. [Inheritance/Composition/Embedding-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionRu.go)</span>
 
-<span style="white-space: pre-line">3En.[Inheritance/Composition/Embedding-EN](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionEn.go)</span>
+<span style="white-space: pre-line">3En. [Inheritance/Composition/Embedding-EN](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/compositionEn.go)</span>
 
-<span style="white-space: pre-line">4Ru.[Polymorphism-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismRu.go)</span>
+<span style="white-space: pre-line">4Ru. [Polymorphism-Ru](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismRu.go)</span>
 
-<span style="white-space: pre-line">4En.[Polymorphism-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismEn.go)</span>
+<span style="white-space: pre-line">4En. [Polymorphism-En](https://github.com/Amoremori/GoInterview/blob/main/go/go_oop/polymorphismEn.go)</span>
 
 
 <h3 align="center"><a href=" " target="_blank">Go.Design-patterns:</a></h3>
 
-<span style="white-space: pre-line">1.[Generative patterns]()</span>
+<span style="white-space: pre-line">1. [Generative patterns]()</span>
 
-<span style="white-space: pre-line">2.[Absract]()</span>
+<span style="white-space: pre-line">2. [Absract]()</span>
 
-<span style="white-space: pre-line">3.[Builder]()</span>
+<span style="white-space: pre-line">3. [Builder]()</span>
 
-<span style="white-space: pre-line">4.[Factory]()</span>
+<span style="white-space: pre-line">4. [Factory]()</span>
 
-<span style="white-space: pre-line">5.[Prototype]()</span>
+<span style="white-space: pre-line">5. [Prototype]()</span>
 
-<span style="white-space: pre-line">6.[Singleton]()</span>
+<span style="white-space: pre-line">6. [Singleton]()</span>
 
-<span style="white-space: pre-line">7.[Structural patterns]()</span>
+<span style="white-space: pre-line">7. [Structural patterns]()</span>
 
-<span style="white-space: pre-line">8.[Adapter]()</span>
+<span style="white-space: pre-line">8. [Adapter]()</span>
 
-<span style="white-space: pre-line">9.[Bridge]()</span>
+<span style="white-space: pre-line">9. [Bridge]()</span>
 
-<span style="white-space: pre-line">10.[Composite]()</span>
+<span style="white-space: pre-line">10. [Composite]()</span>
 
-<span style="white-space: pre-line">11.[Decorator]()</span>
+<span style="white-space: pre-line">11. [Decorator]()</span>
 
-<span style="white-space: pre-line">12.[Facade]()</span>
+<span style="white-space: pre-line">12. [Facade]()</span>
 
-<span style="white-space: pre-line">13.[Flyweight]()</span>
+<span style="white-space: pre-line">13. [Flyweight]()</span>
 
-<span style="white-space: pre-line">14.[Proxy]()</span>
+<span style="white-space: pre-line">14. [Proxy]()</span>
 
-<span style="white-space: pre-line">15.[Behavioral patterns]()</span>
+<span style="white-space: pre-line">15. [Behavioral patterns]()</span>
 
-<span style="white-space: pre-line">16.[Chain of responsibility]()</span>
+<span style="white-space: pre-line">16. [Chain of responsibility]()</span>
 
-<span style="white-space: pre-line">17.[Command]()</span>
+<span style="white-space: pre-line">17. [Command]()</span>
 
-<span style="white-space: pre-line">18.[Interpreter]()</span>
+<span style="white-space: pre-line">18. [Interpreter]()</span>
 
-<span style="white-space: pre-line">19.[Iterator]()</span>
+<span style="white-space: pre-line">19. [Iterator]()</span>
 
-<span style="white-space: pre-line">20.[Mediator]()</span>
+<span style="white-space: pre-line">20. [Mediator]()</span>
 
-<span style="white-space: pre-line">21.[Memento]()</span>
+<span style="white-space: pre-line">21. [Memento]()</span>
 
-<span style="white-space: pre-line">22.[Observer]()</span>
+<span style="white-space: pre-line">22. [Observer]()</span>
 
 <span style="white-space: pre-line">23.[State]()</span>
 
